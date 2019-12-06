@@ -2,7 +2,13 @@
 
 A Phoenix Elixir Headless CMS:
 
+Pre-Requisites
+  *
+  *
+  *
+  
 To get started run setup.bat for windows or setup.sh for unix systems
+
 For Developers:
   * Install dependencies with `mix deps.get`
   * Create and migrate your database with `mix ecto.setup`
